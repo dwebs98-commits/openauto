@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.csv
+*.sqlite
+*.sqlite3
+*.db
+.pytest_cache/
+.agents/
